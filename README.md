@@ -1,7 +1,5 @@
 <h1 align="center">
   App Multi Robot  
-
-  [RobotMap] 
 </h1>
 
 ## Description
